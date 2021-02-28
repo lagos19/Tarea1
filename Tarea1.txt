@@ -1,3 +1,8 @@
 1. Por qué es importante crear repositorios en un proyecto de software?
 
 R// Son importantes por que preservan y organizan materiales científicos y académicos como apoyo a la investigación y el aprendizaje, a la vez que garantizan el acceso a la información. Además, consisten en estructuras web interoperables de servicios informáticos, dedicadas a difundir la perpetuidad de los recursos científicos y académicos (físicos o digitales) de las universidades, a partir de la enumeración de un conjunto de datos específicos (metadatos), para que esos recursos se puedan recopilar, catalogar, acceder, gestionar, difundir y preservar de forma libre y gratuita, de manera que están estrechamente ligados a los ideales y objetivos del acceso abierto.
+
+
+2. Describa 2 ventajas de crear repositorios en un proyecto de software.
+-Un CWIS precisa que un equipo de personas monitoricen, introduzcan la nueva información y eliminen la obsoleta. Los costes de mantenimiento son mucho mayores que los de instalación, es decir, lo que da trabajo no es instalar y mantener el sistema software/hardware, sino la gestión de la información (búsqueda, selección, uso de redes para la documentación y la información, preparación, introducción, monitorización y poda de la información).
+- Otras limitaciones de los CWIS son las implicaciones de la relación del usuario con el canal. En ciertos tipos de información, la interacción entre informador y usuario debe ser necesariamente personal. Un CWIS distribuye información general, despersonalizada, objetiva, diseñada para el colectivo, que no atiende a peculiaridades o casos particulares. 
